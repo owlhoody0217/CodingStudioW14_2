@@ -57,6 +57,7 @@ int main(){
       break;
     }
   }
+  printf("edited by yegang.\n");
 }
 
 int loadCards(struct st_card* p[]){
